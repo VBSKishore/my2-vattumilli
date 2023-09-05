@@ -15,3 +15,6 @@ Tirupati is known as the abode of the **Hindu god Venkateswara**, Lord of Seven 
 * Laddu
 * vada 
 * Sarkarpongali
+
+
+[MYStats Markdown file](https://github.com/VBSKishore/my2-vattumilli/blob/main/MYStats.md)
