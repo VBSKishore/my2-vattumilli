@@ -11,3 +11,7 @@ Tirupati is known as the abode of the **Hindu god Venkateswara**, Lord of Seven 
 1. Visiting Temple
 2. Eating Famous Food
 3. Doing Darshan 
+
+* Laddu
+* vada 
+* Sarkarpongali
