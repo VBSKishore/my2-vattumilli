@@ -22,3 +22,24 @@ Below table describes the name of the sport and the how many times that each spo
 ```Empty Untensils Make More Sound```-*PLATO*
 
 ``` Three can keep a secret, if two of them are dead ```-* Benjamin Franklin *
+
+---
+
+``` Test If The String Starts With Certain Characters Using PHP ```[link for the question mentioned above in stack over flow](https://stackoverflow.com/questions/1962031/how-to-check-if-a-string-starts-with-in-php)
+
+```
+<?php 
+  
+function startsWith($string, $startString) { 
+  $len = strlen($startString); 
+  return (substr($string, 0, $len) === $startString); 
+} 
+
+// usage
+echo startsWith("cat", "c"); // true
+echo startsWith("dog", "x"); // false
+
+?> 
+
+```
+[Code Snippet ](https://css-tricks.com/snippets/phptest-if-string-starts-with-certain-characters-in-php/)
