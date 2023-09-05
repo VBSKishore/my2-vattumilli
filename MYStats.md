@@ -15,6 +15,7 @@ Below table describes the name of the sport and the how many times that each spo
 |Archery| Mind Game|5|
 |chess|Mind Game|4|
 |Tennis|Pressure Game|6|
+|volley ball|Fitness|7|
 
 ---
 
