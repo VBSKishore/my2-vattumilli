@@ -22,7 +22,7 @@ Below table describes the name of the sport and the how many times that each spo
 # Quotes *
 ```Empty Untensils Make More Sound```-*PLATO*
 
-``` Three can keep a secret, if two of them are dead ```-* Benjamin Franklin *
+``` Three can keep a secret, if two of them are dead ```-*Benjamin Franklin*
 
 ---
 
