@@ -28,7 +28,7 @@ Below table describes the name of the sport and the how many times that each spo
 
 # Code Fencing
 
-``` Test If The String Starts With Certain Characters Using PHP ```[link for the question mentioned above in stack over flow](https://stackoverflow.com/questions/1962031/how-to-check-if-a-string-starts-with-in-php)
+``` Test If The String Starts With Certain Characters Using PHP ```[link for the question mentioned above in stack over flow]<https://stackoverflow.com/questions/1962031/how-to-check-if-a-string-starts-with-in-php>
 
 ```
 <?php 
@@ -45,4 +45,4 @@ echo startsWith("dog", "x"); // false
 ?> 
 
 ```
-[Code Snippet ](https://css-tricks.com/snippets/phptest-if-string-starts-with-certain-characters-in-php/)
+[Code Snippet ]<https://css-tricks.com/snippets/phptest-if-string-starts-with-certain-characters-in-php/>
